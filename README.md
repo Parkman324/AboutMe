@@ -45,3 +45,13 @@ __What are you__ in this life?
 [Jesus Christ][1]<br>
 [Keanu Reeves][2]<br>
 [Ryan Gosling][3]<br>
+
+## Terms
+
+| Terms | Defenitions | My Meaning |
+|:-| ---- | ---: |
+| Vivid | Powerful, intensive color; Clear precise language | Invoking strong emotion in |
+| Oriflame | A knight's battle stadard | Your logo; icon |
+| Eccentric | Of unconventional and slightly strange character | Someone who is odd but cool |
+| Supine | Lying face upward; failing to act | other term for coward |
+
